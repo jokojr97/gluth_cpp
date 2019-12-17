@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prak1", "prak1\prak1.vcxproj", "{1CE974FF-D33D-4310-A1DD-692C739121C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE974FF-D33D-4310-A1DD-692C739121C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CE974FF-D33D-4310-A1DD-692C739121C6}.Debug|Win32.Build.0 = Debug|Win32
+		{1CE974FF-D33D-4310-A1DD-692C739121C6}.Release|Win32.ActiveCfg = Release|Win32
+		{1CE974FF-D33D-4310-A1DD-692C739121C6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
